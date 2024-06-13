@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5268062d-ab17-4a96-937d-03a6acd21b34" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/DesignPatterns.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdapterPattern/AdapterPattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdapterPattern/src/IWebService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdapterPattern/src/WebAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdapterPattern/src/WebClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdapterPattern/src/WebService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BuilderDesignPattern/BuilderDesignPattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChainOfResponsibilityPattern/ChainOfResponsibilityPattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChainOfResponsibilityPattern/src/DebugLogProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChainOfResponsibilityPattern/src/ErrorLogProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChainOfResponsibilityPattern/src/InfoLogProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChainOfResponsibilityPattern/src/LogProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CompositePattern/CompositePattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CompositePattern/src/FileSystem/Directory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CompositePattern/src/FileSystem/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CompositePattern/src/FileSystem/IComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CompositePattern/src/FileSystem/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DecoratorPattern/DecoratorPattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DecoratorPattern/src/PizzaStore/BasePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DecoratorPattern/src/PizzaStore/CheeseOverloadedPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DecoratorPattern/src/PizzaStore/CheeseToppingPizzaDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DecoratorPattern/src/PizzaStore/MushroomToppingPizzaDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DecoratorPattern/src/PizzaStore/PizzaDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DecoratorPattern/src/PizzaStore/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DecoratorPattern/src/PizzaStore/VeggiePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design-TicTacToe/Design-TicTacToe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FacadePattern/FacadePattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryPattern/FactoryPattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObserverPattern/ObserverPattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObserverPattern/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObserverPattern/src/main/Event.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObserverPattern/src/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObserverPattern/src/main/Publisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObserverPattern/src/main/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObserverPattern/src/main/listeners/EmailEventListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObserverPattern/src/main/listeners/EventListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObserverPattern/src/main/listeners/MsgEventListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObserverPattern/target/classes/org/example/Event.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObserverPattern/target/classes/org/example/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObserverPattern/target/classes/org/example/Publisher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObserverPattern/target/classes/org/example/Store.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObserverPattern/target/classes/org/example/listeners/EmailEventListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObserverPattern/target/classes/org/example/listeners/EventListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObserverPattern/target/classes/org/example/listeners/MsgEventListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingletonPattern/SingletonPattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingletonPattern/src/CacheService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingletonPattern/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StatePattern/StatePattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrategyPattern/StrategyPattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrategyPattern/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrategyPattern/src/main/java/org/example/CreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrategyPattern/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrategyPattern/src/main/java/org/example/PaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrategyPattern/src/main/java/org/example/Strategy/CreditCardStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrategyPattern/src/main/java/org/example/Strategy/PaymentStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrategyPattern/src/main/java/org/example/Strategy/PaypalStrategy.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2h9shPgqkP70kOvqEL9358Q3Jp8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BurgerKing.executor": "Run",
+    "Application.Main (1).executor": "Run",
+    "Application.Main (2).executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Store.executor": "Run",
+    "Application.main.Main.executor": "Run",
+    "Application.main.java.org.CompositePattern.src.Main.executor": "Run",
+    "Application.main.java.org.example.Main.executor": "Run",
+    "Application.org.example.Main.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.ide.FileNotInSourceRootChecker.no.check": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "/Users/sarthakjain/Documents/GitHub/DesignPatterns/CompositePattern/src",
+    "last_opened_file_path": "/Users/sarthakjain/Documents/GitHub/DesignPatterns",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/sarthakjain/Documents/GitHub/DesignPatterns/CommandPattern/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "project.propCompiler",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/BuilderDesignPattern/src" />
+      <recent name="$PROJECT_DIR$/SingletonPattern/src" />
+      <recent name="$PROJECT_DIR$/DecoratorPattern/src" />
+      <recent name="$PROJECT_DIR$/FacadePattern/src/Account" />
+      <recent name="$PROJECT_DIR$/FacadePattern/src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="FileSystem" />
+      <recent name="" />
+      <recent name="PizzaStore" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="BurgerKing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="burgerStore.BurgerKing" />
+      <module name="DecoratorPattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="BuilderDesignPattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileSystem.Main" />
+      <module name="CompositePattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FileSystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Store" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PizzaStore.Store" />
+      <module name="DecoratorPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PizzaStore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="StrategyPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="DesignPatterns" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="DesignPatterns" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="DesignPatterns" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Python.FlaskServer">
+      <module name="DesignPatterns" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="DesignPatterns" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ccruntests" factoryName="Run Study Tests">
+      <module name="DesignPatterns" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <option name="studyTest" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Docutils task">
+      <module name="DesignPatterns" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Sphinx task">
+      <module name="DesignPatterns" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Store" />
+        <item itemvalue="Application.BurgerKing" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.org.example.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5268062d-ab17-4a96-937d-03a6acd21b34" name="Changes" comment="" />
+      <created>1717017746285</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717017746285</updated>
+      <workItem from="1717017747456" duration="821000" />
+      <workItem from="1717018608603" duration="100000" />
+      <workItem from="1717019208502" duration="233000" />
+      <workItem from="1717019462708" duration="62000" />
+      <workItem from="1717019526118" duration="3628000" />
+      <workItem from="1717023618644" duration="2486000" />
+      <workItem from="1717108685967" duration="4038000" />
+      <workItem from="1717179070813" duration="2161000" />
+      <workItem from="1717968067381" duration="7432000" />
+      <workItem from="1718120595280" duration="9258000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/AdapterPattern/src/Main.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/FactoryPattern/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/FactoryPattern/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CompositePattern/src/Playlist/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ObserverPattern/src/main/Main.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/FacadePattern/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Design-TicTacToe/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ChainOfResponsibilityPattern/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/StatePattern/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CommandPattern/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/ObserverPattern/src/main/Main.java</url>
+          <line>7</line>
+          <properties class="java.Main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
