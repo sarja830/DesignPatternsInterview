@@ -12,18 +12,25 @@ import java.util.ArrayList;
  */
 public class BorrowedItemsFragment extends ItemsFragment {
 
+
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
 
+
         super.onCreateView(inflater,container, savedInstanceState);
         super.setVariables(R.layout.borrowed_items_fragment, R.id.my_borrowed_items);
-        super.setAdapter(BorrowedItemsFragment.this);
+        super.loadItems(BorrowedItemsFragment.this);
+        super.setFragmentOnItemLongClickListener();
+
 
         return rootView;
     }
 
+
     public ArrayList<Item> filterItems() {
         String status = "Borrowed";
-        return item_list.filterItemsByStatus(status);
+        return item_list_controller.filterItemsByStatus(status);
     }
 }
+
+

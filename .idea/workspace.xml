@@ -5,68 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5268062d-ab17-4a96-937d-03a6acd21b34" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/DesignPatterns.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdapterPattern/AdapterPattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdapterPattern/src/IWebService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdapterPattern/src/WebAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdapterPattern/src/WebClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdapterPattern/src/WebService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BuilderDesignPattern/BuilderDesignPattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChainOfResponsibilityPattern/ChainOfResponsibilityPattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChainOfResponsibilityPattern/src/DebugLogProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChainOfResponsibilityPattern/src/ErrorLogProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChainOfResponsibilityPattern/src/InfoLogProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChainOfResponsibilityPattern/src/LogProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CompositePattern/CompositePattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CompositePattern/src/FileSystem/Directory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CompositePattern/src/FileSystem/File.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CompositePattern/src/FileSystem/IComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CompositePattern/src/FileSystem/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DecoratorPattern/DecoratorPattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DecoratorPattern/src/PizzaStore/BasePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DecoratorPattern/src/PizzaStore/CheeseOverloadedPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DecoratorPattern/src/PizzaStore/CheeseToppingPizzaDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DecoratorPattern/src/PizzaStore/MushroomToppingPizzaDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DecoratorPattern/src/PizzaStore/PizzaDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DecoratorPattern/src/PizzaStore/Store.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DecoratorPattern/src/PizzaStore/VeggiePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design-TicTacToe/Design-TicTacToe.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FacadePattern/FacadePattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FactoryPattern/FactoryPattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObserverPattern/ObserverPattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObserverPattern/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObserverPattern/src/main/Event.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObserverPattern/src/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObserverPattern/src/main/Publisher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObserverPattern/src/main/Store.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObserverPattern/src/main/listeners/EmailEventListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObserverPattern/src/main/listeners/EventListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObserverPattern/src/main/listeners/MsgEventListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObserverPattern/target/classes/org/example/Event.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObserverPattern/target/classes/org/example/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObserverPattern/target/classes/org/example/Publisher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObserverPattern/target/classes/org/example/Store.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObserverPattern/target/classes/org/example/listeners/EmailEventListener.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObserverPattern/target/classes/org/example/listeners/EventListener.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObserverPattern/target/classes/org/example/listeners/MsgEventListener.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SingletonPattern/SingletonPattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SingletonPattern/src/CacheService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SingletonPattern/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StatePattern/StatePattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StrategyPattern/StrategyPattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StrategyPattern/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StrategyPattern/src/main/java/org/example/CreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StrategyPattern/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StrategyPattern/src/main/java/org/example/PaymentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StrategyPattern/src/main/java/org/example/Strategy/CreditCardStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StrategyPattern/src/main/java/org/example/Strategy/PaymentStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StrategyPattern/src/main/java/org/example/Strategy/PaypalStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AndroidAssignmentCoursera/app/src/main/java/com/example/sharingapp/ContactController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AndroidAssignmentCoursera/app/src/main/java/com/example/sharingapp/ContactListController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AndroidAssignmentCoursera/app/src/main/java/com/example/sharingapp/ItemController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AndroidAssignmentCoursera/app/src/main/java/com/example/sharingapp/ItemListController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AndroidAssignmentCoursera/app/src/main/java/com/example/sharingapp/Observable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidAssignmentCoursera/app/src/main/java/com/example/sharingapp/AddContactActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidAssignmentCoursera/app/src/main/java/com/example/sharingapp/AddContactActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidAssignmentCoursera/app/src/main/java/com/example/sharingapp/AddItemActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidAssignmentCoursera/app/src/main/java/com/example/sharingapp/AddItemActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidAssignmentCoursera/app/src/main/java/com/example/sharingapp/AllItemsFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidAssignmentCoursera/app/src/main/java/com/example/sharingapp/AllItemsFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidAssignmentCoursera/app/src/main/java/com/example/sharingapp/AvailableItemsFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidAssignmentCoursera/app/src/main/java/com/example/sharingapp/AvailableItemsFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidAssignmentCoursera/app/src/main/java/com/example/sharingapp/BorrowedItemsFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidAssignmentCoursera/app/src/main/java/com/example/sharingapp/BorrowedItemsFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidAssignmentCoursera/app/src/main/java/com/example/sharingapp/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidAssignmentCoursera/app/src/main/java/com/example/sharingapp/Contact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidAssignmentCoursera/app/src/main/java/com/example/sharingapp/ContactList.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidAssignmentCoursera/app/src/main/java/com/example/sharingapp/ContactList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidAssignmentCoursera/app/src/main/java/com/example/sharingapp/ContactsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidAssignmentCoursera/app/src/main/java/com/example/sharingapp/ContactsActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidAssignmentCoursera/app/src/main/java/com/example/sharingapp/EditContactActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidAssignmentCoursera/app/src/main/java/com/example/sharingapp/EditContactActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidAssignmentCoursera/app/src/main/java/com/example/sharingapp/EditItemActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidAssignmentCoursera/app/src/main/java/com/example/sharingapp/EditItemActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidAssignmentCoursera/app/src/main/java/com/example/sharingapp/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidAssignmentCoursera/app/src/main/java/com/example/sharingapp/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidAssignmentCoursera/app/src/main/java/com/example/sharingapp/ItemAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidAssignmentCoursera/app/src/main/java/com/example/sharingapp/ItemAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidAssignmentCoursera/app/src/main/java/com/example/sharingapp/ItemList.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidAssignmentCoursera/app/src/main/java/com/example/sharingapp/ItemList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidAssignmentCoursera/app/src/main/java/com/example/sharingapp/ItemsFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidAssignmentCoursera/app/src/main/java/com/example/sharingapp/ItemsFragment.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,6 +82,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.intellij.ide.FileNotInSourceRootChecker.no.check": "true",
     "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "18",
     "kotlin-language-version-configured": "true",
     "last_directory_selection": "/Users/sarthakjain/Documents/GitHub/DesignPatterns/CompositePattern/src",
     "last_opened_file_path": "/Users/sarthakjain/Documents/GitHub/DesignPatterns",
@@ -357,6 +317,11 @@
       <workItem from="1717179070813" duration="2161000" />
       <workItem from="1717968067381" duration="7432000" />
       <workItem from="1718120595280" duration="9258000" />
+      <workItem from="1718288644434" duration="730000" />
+      <workItem from="1718385041691" duration="1005000" />
+      <workItem from="1718625713998" duration="756000" />
+      <workItem from="1718637094711" duration="1000" />
+      <workItem from="1720043348727" duration="18000" />
     </task>
     <servers />
   </component>
