@@ -2,7 +2,9 @@ import java.util.HashMap;
 
 public class CacheService {
 
-    // eager initialization of cache
+//    Method 3: Double locking
+
+    //Method 2:  eager initialization of cache
     private static CacheService cacheService = new CacheService();
     private HashMap<Integer,String> cacheMap;
 
